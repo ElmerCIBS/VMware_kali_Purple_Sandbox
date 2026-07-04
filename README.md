@@ -1,5 +1,13 @@
 VMware Fusion + Kali Purple Cybersecurity Lab
 
+![Platform](https://img.shields.io/badge/Platform-Apple%20Silicon-blue)
+
+![VMware](https://img.shields.io/badge/VMware-Fusion%2026H1-orange)
+
+![OS](https://img.shields.io/badge/OS-Kali%20Purple-purple)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 Project Overview
 
 This project documents the deployment of a cybersecurity lab environment using VMware Fusion on Apple Silicon (M1 Max) and Kali Purple Linux.
@@ -80,6 +88,30 @@ Technologies Used
 * Cybersecurity
 * Virtualization
 
+Skills Demonstrated
+- VMware Fusion
+- Apple Silicon Virtualization
+- Kali Purple Deployment
+- Linux Administration
+- Cybersecurity Lab Design
+- Network Configuration
+- System Hardening
+- Troubleshooting
+
 Author
 
 Elmer Chavarría
+
+## Lab Preview
+
+![Kali Desktop](screenshots/kali-desktop.png)
+
+## Roadmap
+
+- [x] Install VMware Fusion 26H1
+- [x] Deploy Kali Purple ARM64
+- [x] Configure Virtual Networking
+- [ ] Install Wazuh
+- [ ] Configure Security Monitoring
+- [ ] Create Vulnerable Test Machine
+- [ ] Build Network Security Scenarios
